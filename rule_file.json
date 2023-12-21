@@ -1,0 +1,62 @@
+[
+    {
+        "RuleID": "1",
+        "RuleName": "test.csv_Id validation",
+        "DataAttribute": "Id",
+        "DataType": "int",
+        "ValidationOperator": "None",
+        "ValueToBeMatch": "",
+        "Order": "1",
+        "DataObject": "table",
+        "DataSource": "test.csv",
+        "Sequence": "1"
+    },
+    {
+        "RuleID": "2",
+        "RuleName": "test.csv_Month validation",
+        "DataAttribute": "Month",
+        "DataType": "string",
+        "ValidationOperator": "None",
+        "ValueToBeMatch": "",
+        "Order": "2",
+        "DataObject": "table",
+        "DataSource": "test.csv",
+        "Sequence": "2"
+    },
+    {
+        "RuleID": "3",
+        "RuleName": "test.csv_Bool validation",
+        "DataAttribute": "Bool",
+        "DataType": "string",
+        "ValidationOperator": "None",
+        "ValueToBeMatch": "",
+        "Order": "3",
+        "DataObject": "table",
+        "DataSource": "test.csv",
+        "Sequence": "3"
+    },
+    {
+        "RuleID": "4",
+        "RuleName": "test.csv_Float validation",
+        "DataAttribute": "Float",
+        "DataType": "float",
+        "ValidationOperator": "None",
+        "ValueToBeMatch": "",
+        "Order": "4",
+        "DataObject": "table",
+        "DataSource": "test.csv",
+        "Sequence": "4"
+    },
+    {
+        "RuleID": "5",
+        "RuleName": "test.csv_AGE validation",
+        "DataAttribute": "AGE",
+        "DataType": "int",
+        "ValidationOperator": "None",
+        "ValueToBeMatch": "",
+        "Order": "5",
+        "DataObject": "table",
+        "DataSource": "test.csv",
+        "Sequence": "5"
+    }
+]
